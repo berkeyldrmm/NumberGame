@@ -5,7 +5,6 @@ namespace SayıUygulaması
     class Program
     {
         static void Main(){
-            Console.WriteLine("1-OYUNA BAŞLA. 2-UYGULAMAYI KAPAT.");
             Menu();
         }
         static void StartGame(){
@@ -16,10 +15,10 @@ namespace SayıUygulaması
                 total+=currentvalue;
             }
             Console.WriteLine("Oyun bitti. Toplam: "+total);
-            Console.WriteLine("1-OYUNA BAŞLA. 2-UYGULAMAYI KAPAT.");
             Menu();
         }
         static void Menu(){
+            Console.WriteLine("1-OYUNA BAŞLA. 2-UYGULAMAYI KAPAT.");
             int tercih=int.Parse(Console.ReadLine());
             switch (tercih)
             {
