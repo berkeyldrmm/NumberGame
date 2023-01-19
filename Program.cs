@@ -9,9 +9,10 @@ namespace SayıUygulaması
         }
         static void StartGame(){
             int currentvalue=0, total=0;
-            while (total<50)
+            while (total<100)
             {
-                currentvalue=int.Parse(Console.ReadLine());
+                var number=Console.ReadLine();
+                currentvalue=int.Parse(number);
                 total+=currentvalue;
             }
             Console.WriteLine("Oyun bitti. Toplam: "+total);

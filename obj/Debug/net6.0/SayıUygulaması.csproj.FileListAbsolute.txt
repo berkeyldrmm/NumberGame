@@ -1,0 +1,15 @@
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\bin\Debug\net6.0\SayıUygulaması.exe
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\bin\Debug\net6.0\SayıUygulaması.deps.json
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\bin\Debug\net6.0\SayıUygulaması.runtimeconfig.json
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\bin\Debug\net6.0\SayıUygulaması.dll
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\bin\Debug\net6.0\SayıUygulaması.pdb
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.csproj.AssemblyReference.cache
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.AssemblyInfoInputs.cache
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.AssemblyInfo.cs
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.dll
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\refint\SayıUygulaması.dll
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.pdb
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\SayıUygulaması.genruntimeconfig.cache
+C:\Users\ROG\OneDrive\Belgeler\GitHub\NumberGame\obj\Debug\net6.0\ref\SayıUygulaması.dll
